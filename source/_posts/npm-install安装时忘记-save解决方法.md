@@ -4,7 +4,7 @@ date: 2017-05-07 20:17:54
 tags: npm
 categories:
 ---
-![image](http://ooxz0ztfx.bkt.clouddn.com/npminit.png)
+![](http://ooxz0ztfx.bkt.clouddn.com/npminit.png)
 网上还有一个解决方案就是：
 ```
 npm install `ls node_modules` --save
